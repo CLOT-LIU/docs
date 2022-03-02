@@ -12,5 +12,5 @@
 
 <!--封面-->
 
-![](https://tupian.clotliu.com/blbcover.gif)
+![](picture/blbcover.gif)
 

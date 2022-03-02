@@ -1,45 +1,23 @@
-## 中文文档
+# 💐HelloCoder
 
-在线阅读
----
+## ✨1、LearnJavaToFindAJob介绍
 
--  **[国内优先 Gitee 在线阅读](https://mochazi.gitee.io/docsify-demo)** | [Gitee 仓库地址](https://gitee.com/mochazi/docsify-demo)
--  **[国外优先 GitHub 在线阅读](https://mochazi.github.io/docsify-demo)** | [GitHub 仓库地址](https://github.com/mochazi/docsify-demo)
+> LearnJavaToFindAJob ，《Java小白求职之路》，是一个帮助Java程序员到找到一份工作的面试指南。
 
-## 编写警告
-> [!WARNING]
-> 在`[]`里面写入`!WARNING`即可
->
-> 这是一个使用了Markdown引用样式美化插件的警告
+涵盖了 Java面试的常见题目，包括：
 
-## 编写危险
-> [!Danger]
-> 在`[]`里面写入`!Danger`即可
->
-> 这是一个使用了Markdown引用样式美化插件的危险
+## ▶️2、在线阅读地址：
 
-## 编写提示
-> [!TIP]
-> 在`[]`里面写入`!TIP`即可
->
-> 这是一个使用了Markdown引用样式美化插件的提示
+为了方便大家阅读，我做了一个在线阅读文档，点击任意一个链接即可在线阅读：
 
-## 编写注释
-> [!NOTE]
-> 在`[]`里面写入`!NOTE`即可
->
-> 这是一个使用了Markdown引用样式美化插件的注释
+服务器端Pages：[https://learnjava.baimuxym.cn/#/](https://learnjava.baimuxym.cn/#/)
 
-## 编写自定义警告
-> [!WARNING|label:Important]
-> 在`[]`里面写入`!WARNING|label:Important`即可
->
-> 同理`Danger`，`TIP`，`NOTE`添加`label:xxx`实现自定义
+GitHub Pages：[https://dogerrain.github.io/LearnJavaToFindAJob/#/](https://dogerrain.github.io/LearnJavaToFindAJob/#/)
 
-## 图片缩放
-![](style/head_portrait.jpg)
+Gitee Pages ：[https://rainyudianxx.gitee.io/learnjavatofindajob/#/](https://rainyudianxx.gitee.io/learnjavatofindajob/#/)（国内访问快）
 
-## 访问量统计
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+> Gitee Pages  更新会慢一点
 
+<font style="color:black;font-size:50px;font-weight:2px">[GO](/articles\Knowledge\FinalShell-tutorial.md)</font>
 
+> 最后更新时间：`2022年2月10日 15:36:47`

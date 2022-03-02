@@ -1,38 +1,23 @@
-## English Documentation
-This is an English Documentation
+# 💐HelloCoder
 
-Read Online
----
+## ✨1、LearnJavaToFindAJob介紹
 
--  **[Gitee Online](https://mochazi.gitee.io/docsify-demo)** | [Gitee address](https://gitee.com/mochazi/docsify-demo)
--  **[GitHub Online](https://mochazi.github.io/docsify-demo)** | [GitHub address](https://github.com/mochazi/docsify-demo)
+> LearnJavaToFindAJob ，《Java小白求職之路》，是一個幫助Java程序員到找到一份工作的面試指南。
 
-## Write a warning
-> [!WARNING]
-> Write `!WARNING` in`[]`
->
-> This is a warning to beautify the plug-in using the markdown reference style
+涵蓋了 Java面試的常見題目，包括：
 
-## Writing a danger
-> [!Danger]
-> Write `!Danger` in`[]`
->
-> This is a danger to beautify the plug-in using the markdown reference style
+## ▶️2、在線閱讀地址：
 
-## Writing a tip
-> [!TIP]
-> Write `!TIP` in`[]`
->
-> This is a tip to beautify the plug-in using the markdown reference style
+爲了方便大家閱讀，我做了一個在線閱讀文檔，點擊任意一個鏈接即可在線閱讀：
 
-## Writing a note
-> [!NOTE]
-> Write `!NOTE` in`[]`
->
-> This is a note to beautify the plug-in using the markdown reference style
+服務器端Pages：[https://learnjava.baimuxym.cn/#/](https://learnjava.baimuxym.cn/#/)
 
-## Writing custom warnings
-> [!WARNING|label:Important]
-> Write `!WARNING|label:Important` in`[]`
->
-> The same goes for `Danger`，`TIP`，`NOTE`，` label:xxx `Implement customization
+GitHub Pages：[https://dogerrain.github.io/LearnJavaToFindAJob/#/](https://dogerrain.github.io/LearnJavaToFindAJob/#/)
+
+Gitee Pages ：[https://rainyudianxx.gitee.io/learnjavatofindajob/#/](https://rainyudianxx.gitee.io/learnjavatofindajob/#/)（國內訪問快）
+
+> Gitee Pages  更新會慢一點
+
+<font style="color:black;font-size:50px;font-weight:2px">[GO](/articles\Knowledge\FinalShell-tutorial.md)</font>
+
+> 最後更新時間：`2022年2月10日 15:36:47`

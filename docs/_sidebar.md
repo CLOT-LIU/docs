@@ -1,13 +1,12 @@
-- Preface
-    - [Introduction](zh-cn/README.md)
+- 前言
+    - [简介](zh-CHT/README.md)
     
-- Blog Knowledge
-    - [FinalShell Usage Tutorial](zh-cn/articles/Knowledge/FinalShell-tutorial.md)
-    - [Docker installation tutorial](zh-cn/articles/Knowledge/docker-install.md)
-    - [Pagoda Linux panel installation halo](zh-cn/articles/Knowledge/bt-halo-linux.md)
-    - [Nextcloud solving background security errors and setting warnings](zh-cn/articles/Knowledge/bt-nextcloud.md)
-    - Nextcloud: A tutorial for setting up cloud storage(zh-cn/articles/Knowledge/upyun.md)
-    - [Random image API build](zh-cn/articles/Knowledge/api.md)
-    - [pagoda panel build uptime-kuma](zh-cn/articles/Knowledge/uptime-kuma.md)
-    - [h5ai installation tutorial](zh-cn/articles/Knowledge/bt-h5ai.md)
-    
+- 博客知识
+    - [FinalShell 使用教程](zh-CHT/articles/Knowledge/FinalShell-tutorial.md)
+    - [Docker安装教程](zh-CHT/articles/Knowledge/docker-install.md)
+    - [宝塔 Linux 面板安装 halo](zh-CHT/articles/Knowledge/bt-halo-linux.md)
+    - [Nextcloud解决后台安全错误及设置警告](zh-CHT/articles/Knowledge/bt-nextcloud.md)
+    - [又拍云存储设置教程](zh-CHT/articles/Knowledge/upyun.md)
+    - [随机图片 API 搭建](zh-CHT/articles/Knowledge/api.md)
+    - [宝塔面板搭建uptime-kuma](zh-CHT/articles/Knowledge/uptime-kuma.md)
+    - [h5ai安装教程](zh-CHT/articles/Knowledge/bt-h5ai.md)

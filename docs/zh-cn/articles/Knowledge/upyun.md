@@ -1,4 +1,4 @@
-# 注册又拍云账号
+## 注册又拍云账号
 
 点击 <a href="https://console.upyun.com/register/?invite=B1K7kNtvt"  target="_blank">这里</a> 即可注册又拍云账号。
 
@@ -6,14 +6,14 @@
 > 
 > 因为关于又拍云存储设置的文章只有一篇几年前的，所以在此教程基于 <a href="https://bbs.halo.run/u/ryanwang"  target="_blank">@Ryan Wang</a> 大佬的文章 <a href="https://bbs.halo.run/d/150"  target="_blank">又拍云存储设置教程</a> 进行的了修改和更新。(按本教程基本上是没有啥问题的......大概吧:🧐:)
 
-# 新建云存储
+## 新建云存储
 
 ![1636542462](https://tupian.clotliu.com/0354560ac6154ee18570ae2bc8aa2ff2.jpg)
 
 ![1636539766-650163-apb09zgiysq7uydhzvo](https://tupian.clotliu.com/fb6cf308e80bcc4f4c376f182e345ea7.png)
 > 注意：第一次使用需要新建一个操作员，权限全勾上。应用场景选择网页图片即可。
 
-# 绑定域名
+## 绑定域名
 
 ![Snipaste_2019-07-20_12-21-11.jpg](https://i.loli.net/2019/07/20/5d3296c6a654743117.jpg)
 
@@ -25,7 +25,7 @@
 
 ![1636540342-689871-image](https://tupian.clotliu.com/822aa86438ba381789f339914b55c6cf.png)
 
-# 缩略图策略
+## 缩略图策略
 
 我们需要新建一个缩略图策略以供博客后台展示所用。
 
@@ -41,7 +41,7 @@
 
 > 版本名称自己设置就好，缩略方式建议限定宽度和高度。完了保存即可。
 
-# Halo 后台设置
+## Halo 后台设置
 
 ![1636541922-154535-m-at-htf4sza3fja-at-705l](https://tupian.clotliu.com/8d7281743f28b00730c120bd17bddf3e.png)
 
@@ -71,6 +71,6 @@
 5. 文件目录自定义。
 6. 缩略图处理策略即 `间隔标识符+图片处理版本名称`。
 
-# 最后
+## 最后
 
 去附件管理上传图片试试吧！

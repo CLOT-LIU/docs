@@ -1,12 +1,12 @@
 - Introduction
-    - [brief introduction](en-us/README.md)
+    - [brief introduction](zh-CHT/README.md)
     
 - C++
-    - [Basics](en-us/C++/base.md)
-    - [Function](en-us/C++/func.md)
-    - [Object](en-us/C++/object.md)
+    - [Basics](zh-CHT/C++/base.md)
+    - [Function](zh-CHT/C++/func.md)
+    - [Object](zh-CHT/C++/object.md)
 
 - Python
-    - [Basics](en-us/Python/base.md)
-    - [Function](en-us/Python/func.md)
-    - [Object](en-us/Python/object.md)
+    - [Basics](zh-CHT/Python/base.md)
+    - [Function](zh-CHT/Python/func.md)
+    - [Object](zh-CHT/Python/object.md)

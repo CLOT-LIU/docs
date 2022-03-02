@@ -10,3 +10,12 @@
     - [基础](zh-cn/Python/base.md)
     - [函数](zh-cn/Python/func.md)
     - [对象](zh-cn/Python/object.md)
+- 博客知识
+    - [FinalShell 使用教程](zh-cn/articles/Knowledge/FinalShell-tutorial.md)
+    - [Docker安装教程](zh-cn/articles/Knowledge/docker-install.md)
+    - [宝塔 Linux 面板安装 halo](zh-cn/articles/Knowledge/bt-halo-linux.md)
+    - [Nextcloud解决后台安全错误及设置警告](zh-cn/articles/Knowledge/bt-nextcloud.md)
+    - [又拍云存储设置教程](zh-cn/articles/Knowledge/upyun.md)
+    - [随机图片 API 搭建](zh-cn/articles/Knowledge/api.md)
+    - [宝塔面板搭建uptime-kuma](zh-cn/articles/Knowledge/uptime-kuma.md)
+    - [h5ai安装教程](zh-cn/articles/Knowledge/bt-h5ai.md)

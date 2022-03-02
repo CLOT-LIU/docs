@@ -1,5 +1,5 @@
 - [主页](/)
 - Translations
     - [:cn: 中文](/zh-cn/)
+    - [:cn: 繁体中文](/zh-CHT/)
     - [:us: English](/en-us/)
-    

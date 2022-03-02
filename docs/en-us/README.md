@@ -1,9 +1,8 @@
-# 💐 HelloCoder
+# 💐HelloCoder
 
-## ✨1, LearnJavaToFindAJob introduction
+## ✨1、LearnJavaToFindAJob introduction
 
-"> < p style =" max-width: 100%; clear: both; min-height: 1em;
-
+> The LearnJavaToFindAJob is an interview guide to help Java programmers find a job.
 Covers common Java interview topics, including:
 
 ## ▶️2, online reading address:
@@ -18,6 +17,6 @@ Gitee Pages: [https://rainyudianxx.gitee.io/learnjavatofindajob/#/] (https://rai
 
 > Gitee Pages updates slowly
 
-<font style="color:black; font-size:50px;</font><font style="color:black;  font-weight:2px">[GO](/articles\Knowledge\FinalShell-tutorial.md)</font>
+<font style="color:black;font-size:50px;font-weight:2px">[GO](/articles\Knowledge\FinalShell-tutorial.md)</font>
 
 > last updated: '15:36:47' on feb 10, 2022

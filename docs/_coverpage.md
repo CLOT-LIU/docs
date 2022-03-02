@@ -8,7 +8,7 @@
 👀    本站总访问量 <span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>次
 </span>| 🐒本站访客数<span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>人次
 
-[开始阅读](docs/zh-cn/README.md)
+[开始阅读](/zh-cn/README.md)
 
 <!--封面-->
 

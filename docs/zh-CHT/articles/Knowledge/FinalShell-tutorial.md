@@ -1,17 +1,17 @@
-# 一、安装堡塔远程工具 以连接你的Linux服务器
-Windows版下载地址:
+# 一、安裝堡塔遠程工具 以連接你的Linux服務器
+Windows版下載地址:
 [http://www.hostbuf.com/downloads/finalshell_install.exe](http://www.hostbuf.com/downloads/finalshell_install.exe)
 
-macOS版下载地址:
+macOS版下載地址:
 [http://www.hostbuf.com/downloads/finalshell_install.pkg](http://www.hostbuf.com/downloads/finalshell_install.pkg "http://www.hostbuf.com/downloads/finalshell_install.pkg")
 
-Linux版安装及教程:
+Linux版安裝及教程:
 http://www.hostbuf.com/t/1059.html
 
-# 二、使用FinalShell连接至Linux服务器
+# 二、使用FinalShell連接至Linux服務器
 
-1. 启动 FinalShell，进入堡塔远程工具主界面。
-2. 按照提示填写服务器信息（请填写公网可连接的IP）
+1. 啓動 FinalShell，進入堡塔遠程工具主界面。
+2. 按照提示填寫服務器信息（請填寫公網可連接的IP）
 
 ![ip.png](https://cdn.lixingyong.com/2021/11/14/ip.png)
 
@@ -19,4 +19,4 @@ http://www.hostbuf.com/t/1059.html
 
 ![FinalShell3.png](https://cdn.lixingyong.com/2021/11/14/FinalShell3.png)
 
-进入到这里即表明你已经连接到了你的linux服务器，接下来就可以安装宝塔了。![12.png](https://cdn.lixingyong.com/2021/11/14/12.png)
+進入到這裏即表明你已經連接到了你的linux服務器，接下來就可以安裝寶塔了。![12.png](https://cdn.lixingyong.com/2021/11/14/12.png)

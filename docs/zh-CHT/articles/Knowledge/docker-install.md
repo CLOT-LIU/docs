@@ -1,14 +1,14 @@
-# 安装 Docker
+# 安裝 Docker
 
-## 准备工作
+## 准備工作
 
-### 系统要求
+### 系統要求
 
-Docker 支持 64 位版本 CentOS 7/8，并且要求内核版本不低于 3.10。 CentOS 7 满足最低内核的要求，但由于内核版本比较低，部分功能（如 `overlay2` 存储层驱动）无法使用，并且部分功能可能不太稳定。
+Docker 支持 64 位版本 CentOS 7/8，並且要求內核版本不低于 3.10。 CentOS 7 滿足最低內核的要求，但由于內核版本比較低，部分功能（如 `overlay2` 存儲層驅動）無法使用，並且部分功能可能不太穩定。
 
-### 卸载旧版本
+### 卸載舊版本
 
-旧版本的 Docker 称为 `docker` 或者 `docker-engine`，使用以下命令卸载旧版本：
+舊版本的 Docker 稱爲 `docker` 或者 `docker-engine`，使用以下命令卸載舊版本：
 
 ```
 $ sudo yum remove docker \
@@ -24,17 +24,17 @@ $ sudo yum remove docker \
 
 ```
 
-## 使用 yum 安装
+## 使用 yum 安裝
 
-执行以下命令安装依赖包：
+執行以下命令安裝依賴包：
 
 ```
 sudo yum install -y yum-utils
 ```
 
-鉴于国内网络问题，强烈建议使用国内源，官方源请在注释中查看。
+鑒于國內網絡問題，強烈建議使用國內源，官方源請在注釋中查看。
 
-执行下面的命令添加 `yum` 软件源：
+執行下面的命令添加 `yum` 軟件源：
 
 ```
 $ sudo yum-config-manager \
@@ -49,27 +49,27 @@ $ sudo sed -i 's/download.docker.com/mirrors.aliyun.com\/docker-ce/g' /etc/yum.r
 #     https://download.docker.com/linux/centos/docker-ce.repo
 ```
 
-如果需要测试版本的 Docker 请执行以下命令：
+如果需要測試版本的 Docker 請執行以下命令：
 
 ```
 $ sudo yum-config-manager --enable docker-ce-test
 ```
 
-## 安装 Docker
+## 安裝 Docker
 
-更新 `yum` 软件源缓存，并安装 `docker-ce`。
+更新 `yum` 軟件源緩存，並安裝 `docker-ce`。
 
 ```
 $ sudo yum install docker-ce docker-ce-cli containerd.io
 ```
 
-## 启动 Docker
+## 啓動 Docker
 
 ```
 $ sudo systemctl start docker
 ```
 
-## 验证Docker引擎是否正确安装。
+## 驗證Docker引擎是否正確安裝。
 
 ```
 $ sudo docker run hello-world

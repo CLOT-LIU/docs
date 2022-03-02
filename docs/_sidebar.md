@@ -1,15 +1,6 @@
 - 前言
     - [简介](zh-cn/README.md)
     
-- C++
-    - [基础](zh-cn/C++/base.md)
-    - [函数](zh-cn/C++/func.md)
-    - [对象](zh-cn/C++/object.md)
-
-- Python
-    - [基础](zh-cn/Python/base.md)
-    - [函数](zh-cn/Python/func.md)
-    - [对象](zh-cn/Python/object.md)
 - 博客知识
     - [FinalShell 使用教程](zh-cn/articles/Knowledge/FinalShell-tutorial.md)
     - [Docker安装教程](zh-cn/articles/Knowledge/docker-install.md)

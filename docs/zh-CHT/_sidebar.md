@@ -1,12 +1,12 @@
-- Introduction
-    - [brief introduction](zh-CHT/README.md)
+- 前言
+    - [簡介](zh-CHT/README.md)
     
-- C++
-    - [Basics](zh-CHT/C++/base.md)
-    - [Function](zh-CHT/C++/func.md)
-    - [Object](zh-CHT/C++/object.md)
-
-- Python
-    - [Basics](zh-CHT/Python/base.md)
-    - [Function](zh-CHT/Python/func.md)
-    - [Object](zh-CHT/Python/object.md)
+- 博客知識
+    - [FinalShell 使用教程](zh-CHT/articles/Knowledge/FinalShell-tutorial.md)
+    - [Docker安裝教程](zh-CHT/articles/Knowledge/docker-install.md)
+    - [寶塔 Linux 面板安裝 halo](zh-CHT/articles/Knowledge/bt-halo-linux.md)
+    - [Nextcloud解決後台安全錯誤及設置警告](zh-CHT/articles/Knowledge/bt-nextcloud.md)
+    - [又拍雲存儲設置教程](zh-CHT/articles/Knowledge/upyun.md)
+    - [隨機圖片 API 搭建](zh-CHT/articles/Knowledge/api.md)
+    - [寶塔面板搭建uptime-kuma](zh-CHT/articles/Knowledge/uptime-kuma.md)
+    - [h5ai安裝教程](zh-CHT/articles/Knowledge/bt-h5ai.md)

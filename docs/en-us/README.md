@@ -1,23 +1,23 @@
-# 💐HelloCoder
+# 💐 HelloCoder
 
-## ✨1、LearnJavaToFindAJob介紹
+## ✨1, LearnJavaToFindAJob introduction
 
-> LearnJavaToFindAJob ，《Java小白求職之路》，是一個幫助Java程序員到找到一份工作的面試指南。
+"> < p style =" max-width: 100%; clear: both; min-height: 1em;
 
-涵蓋了 Java面試的常見題目，包括：
+Covers common Java interview topics, including:
 
-## ▶️2、在線閱讀地址：
+## ▶️2, online reading address:
 
-爲了方便大家閱讀，我做了一個在線閱讀文檔，點擊任意一個鏈接即可在線閱讀：
+For your convenience, I made an online reading document, click on any link to read online:
 
-服務器端Pages：[https://learnjava.baimuxym.cn/#/](https://learnjava.baimuxym.cn/#/)
+Server-side Pages: [https://learnjava.baimuxym.cn/#/] (https://learnjava.baimuxym.cn/#/)
 
-GitHub Pages：[https://dogerrain.github.io/LearnJavaToFindAJob/#/](https://dogerrain.github.io/LearnJavaToFindAJob/#/)
+Making Pages: [https://dogerrain.github.io/LearnJavaToFindAJob/#/] (https://dogerrain.github.io/LearnJavaToFindAJob/#/)
 
-Gitee Pages ：[https://rainyudianxx.gitee.io/learnjavatofindajob/#/](https://rainyudianxx.gitee.io/learnjavatofindajob/#/)（國內訪問快）
+Gitee Pages: [https://rainyudianxx.gitee.io/learnjavatofindajob/#/] (https://rainyudianxx.gitee.io/learnjavatofindajob/#/) (domestic access fast)
 
-> Gitee Pages  更新會慢一點
+> Gitee Pages updates slowly
 
-<font style="color:black;font-size:50px;font-weight:2px">[GO](/articles\Knowledge\FinalShell-tutorial.md)</font>
+<font style="color:black; font-size:50px;</font><font style="color:black;  font-weight:2px">[GO](/articles\Knowledge\FinalShell-tutorial.md)</font>
 
-> 最後更新時間：`2022年2月10日 15:36:47`
+> last updated: '15:36:47' on feb 10, 2022

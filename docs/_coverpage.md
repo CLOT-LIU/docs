@@ -12,5 +12,5 @@
 
 <!--封面-->
 
-![](https://blockchainlittlebook.com/images/blbcover.gif)
+![](https://tupian.clotliu.com/blbcover.gif)
 

@@ -2,13 +2,13 @@
 
 ![uptimekuma12.png](https://tupian.clotliu.com/a3d67768b1c56a1a54e390820717f4a6.png)
 
-#### 1、简介
+## 1、简介
 
 项目：https://github.com/louislam/uptime-kuma
 
 演示：https://stats.clotliu.com
 
-#### 2、准备
+## 2、准备
 
 1. 准备好vps
 2. 按照[宝塔官方文档](https://www.bt.cn)安装好宝塔面板
@@ -16,7 +16,7 @@
 4. 安装好nginx1.20或其他版本
 5. 准备好域名
 
-#### 3、部署
+## 3、部署
 
 因为作者提供了docker方式的安装，这里我们也推荐这个方式，本教程也是基于docker安装。
 
@@ -31,7 +31,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 部署完毕后，浏览器输入`http://你服务器IP:3001`来访问uptime-kuma，如不能访问需要在安全中放行端口。如果提示3001端口冲突，可以自行修改为其他端口！！
 
-#### 4、使用
+## 4、使用
 
 1. 初始化设置，首次访问需要设置管理员账号、密码，根据提示完成即可。
 
@@ -49,7 +49,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 ![uptimekuma4.png](https://tupian.clotliu.com/b651ea0c2d2b8f003d8fae9c548ddfff.png)
 
-#### 5、域名访问
+## 5、域名访问
 
 1. 宝塔设置域名访问，看图：
 
@@ -76,13 +76,13 @@ proxy_set_header Connection "upgrade";
 
 ![uptimekuma7.png](https://tupian.clotliu.com/74c20fc4c993cee40aa578baacf7cdbd.png)
 
-#### 6、添加通知
+## 6、添加通知
 
 支持通知的种类很多，比如smtp，webhook，tg等等！选择一个自己熟悉的来添加！！
 
 ![uptimekuma8.png](https://tupian.clotliu.com/a4335c81b6c82b918920428b9b3c8885.png)
 
-#### 7、禁用身份验证
+## 7、禁用身份验证
 
 1)这是可选的，如果不禁用游客访问需要用户名和密码，但是你关掉后，就可以自由访问了。（后台后上角的设置，然后拉到最下面即可看到！）
 
@@ -90,7 +90,7 @@ proxy_set_header Connection "upgrade";
 
 2. 禁用身份验证后，游客都可以随意修改你的后台设置，所以这里建议还是开启！
 
-#### 8、设置Status Page
+## 8、设置Status Page
 
 这个功能还是很重要的，可以把新建的监控服务放置到这个监控页面，这样就可以随时随地的看到每个系统的状态了。
 
@@ -102,7 +102,7 @@ proxy_set_header Connection "upgrade";
 
 ![uptimekuma12.png](https://tupian.clotliu.com/a3d67768b1c56a1a54e390820717f4a6.png)
 
-#### 9、最后
+## 9、最后
 
 uptime-kuma虽然没有商业程序的强大功能，但是对于个人用户来说，已经足够使用了。如果你正在考虑自建一个[监控程序](https://clotliu.com/archives/uptime-kuma)，那么可以折腾试试！！
 

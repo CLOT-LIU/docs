@@ -1,9 +1,4 @@
----
-id: bt-h5ai
-title: h5ai安装教程
----
-
-# 介绍
+## 介绍
 
 h5ai可以把对应目录下的文件和文件夹全部显示在web页面上，只需点击即可下载对应的资料
 
@@ -13,7 +8,7 @@ h5ai需要php5.5版本以上环境，可在apache、nginx环境下运行，这�
 
 **Github：~​~​[https://github.com/lrsjng/h5ai](https://github.com/lrsjng/h5ai)**
 
-# 方法：
+## 方法：
 
 宝塔后台添加站点，用你自己的域名或IP都可以：
 

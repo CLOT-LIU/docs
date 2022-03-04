@@ -1,4 +1,4 @@
-# 一、安装堡塔远程工具 以连接你的Linux服务器
+## 一、安装堡塔远程工具 以连接你的Linux服务器
 Windows版下载地址:
 [http://www.hostbuf.com/downloads/finalshell_install.exe](http://www.hostbuf.com/downloads/finalshell_install.exe)
 
@@ -8,7 +8,7 @@ macOS版下载地址:
 Linux版安装及教程:
 http://www.hostbuf.com/t/1059.html
 
-# 二、使用FinalShell连接至Linux服务器
+## 二、使用FinalShell连接至Linux服务器
 
 1. 启动 FinalShell，进入堡塔远程工具主界面。
 2. 按照提示填写服务器信息（请填写公网可连接的IP）

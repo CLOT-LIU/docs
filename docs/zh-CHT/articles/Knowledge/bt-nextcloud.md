@@ -1,4 +1,4 @@
-# 前言
+## 前言
 
 當我們使用寶塔面板部署好後，可以直接使用，如果你還沒有部署Nextcloud，可以參考：
 
@@ -11,7 +11,7 @@
 
 ![c3tk8feorv.png](https://tupian.clotliu.com/c80ab1efc200b4c5eea7a1dcef6459ab.png)<center>部分警告和錯誤</center>
 
-# 通過HTTP訪問網站不安全。強烈建議您將服務器設置成要求使用HTTPS協議
+## 通過HTTP訪問網站不安全。強烈建議您將服務器設置成要求使用HTTPS協議
 
 這個問題最好解決，同時也可能是無法解決問題：
 
@@ -21,7 +21,7 @@
 
 **國內服務器需要綁定備案的域名，若無備案域名，則只能使用IP訪問Nextcloud，那麽該條警告無法去除。**
 
-# 一些文件沒有通過完整性檢查. 了解如何解決該問題請查看我們的文檔. (無效的文件列表… / 重新掃描…)
+## 一些文件沒有通過完整性檢查. 了解如何解決該問題請查看我們的文檔. (無效的文件列表… / 重新掃描…)
 
 ![t5880m76pp.png](https://tupian.clotliu.com/ac3c0d017803cb4406ae69b92a0f2b28.png)<center>“無效文件列表”錯誤</center>
 
@@ -38,7 +38,7 @@
 
 ![uwguxp4atr.png](https://tupian.clotliu.com/d1644ef9feb7d1baa18d0f66df610280.png)<center>rm命令刪除</center>
 
-# PHP configuration option output_buffering must be disabled
+## PHP configuration option output_buffering must be disabled
 
 其實這個很好解決，PHP默認是有4096字節緩衝的。但是Nextcloud希望你關閉。如果你是自己安裝的PHP，在你安裝PHP的路徑下，打開PHP配置文件（`php.ini`），將要
 ```
@@ -60,7 +60,7 @@ output_buffering = 4096
 
 之後，可能需要重載PHP配置或者重啓PHP服務才能生效。再次查看Nextcloud**概述**，就沒有這條警告了。
 
-# 您的數據目錄和文件可以從互聯網直接訪問。.htaccess 文件不起作用。強烈建議您配置 Web 服務器，以便數據目錄不再可訪問，或者您可以將數據目錄移動到 Web 服務器文檔根目錄。
+## 您的數據目錄和文件可以從互聯網直接訪問。.htaccess 文件不起作用。強烈建議您配置 Web 服務器，以便數據目錄不再可訪問，或者您可以將數據目錄移動到 Web 服務器文檔根目錄。
 
 這個其實是Nginx的問題，爲了進一步提升安全性，我們打開Nginx網站設置
 
@@ -70,7 +70,7 @@ output_buffering = 4096
 
 ![l3a2yj5pnw.png](https://tupian.clotliu.com/5b4d392fdc9b949cbcfcd054ca8b5923.png)<center>加入data目錄</center>
 
-# PHP 的安裝似乎不正確，無法訪問系統環境變量。getenv(“PATH”) 函數測試返回了一個空值
+## PHP 的安裝似乎不正確，無法訪問系統環境變量。getenv(“PATH”) 函數測試返回了一個空值
 
 這個處理方法很簡單；如果你是自己安裝配置的PHP，一般不會出現這個問題，當時如果是使用寶塔安裝，一般都會有這個問題，解決方法很簡單：
 
@@ -86,7 +86,7 @@ env[PATH] = /usr/local/bin:/usr/bin:/bin:/usr/local/php/bin
 
 之後，可能需要重載PHP配置或者重啓PHP服務才能生效。
 
-# 您的網頁服務器未正確設置以解析****。更多信息請參見文檔
+## 您的網頁服務器未正確設置以解析****。更多信息請參見文檔
 
 這個處理方法很簡單，簡單地說，設置Nginx即可。如果你的Nginx是寶塔安裝的，那麽打開網站的Nginx：
 
@@ -103,7 +103,7 @@ rewrite /.well-known/caldav /remote.php/dav permanent;
 
 之後保存即可
 
-# PHP模塊問題
+## PHP模塊問題
 
 PHP模塊問題包括：
 

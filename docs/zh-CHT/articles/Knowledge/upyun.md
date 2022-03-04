@@ -1,4 +1,4 @@
-# 注冊又拍雲賬號
+## 注冊又拍雲賬號
 
 點擊 <a href="https://console.upyun.com/register/?invite=B1K7kNtvt"  target="_blank">這裏</a> 即可注冊又拍雲賬號。
 
@@ -6,14 +6,14 @@
 > 
 > 因爲關于又拍雲存儲設置的文章只有一篇幾年前的，所以在此教程基于 <a href="https://bbs.halo.run/u/ryanwang"  target="_blank">@Ryan Wang</a> 大佬的文章 <a href="https://bbs.halo.run/d/150"  target="_blank">又拍雲存儲設置教程</a> 進行的了修改和更新。(按本教程基本上是沒有啥問題的......大概吧:🧐:)
 
-# 新建雲存儲
+## 新建雲存儲
 
 ![1636542462](https://tupian.clotliu.com/0354560ac6154ee18570ae2bc8aa2ff2.jpg)
 
 ![1636539766-650163-apb09zgiysq7uydhzvo](https://tupian.clotliu.com/fb6cf308e80bcc4f4c376f182e345ea7.png)
 > 注意：第一次使用需要新建一個操作員，權限全勾上。應用場景選擇網頁圖片即可。
 
-# 綁定域名
+## 綁定域名
 
 ![Snipaste_2019-07-20_12-21-11.jpg](https://i.loli.net/2019/07/20/5d3296c6a654743117.jpg)
 
@@ -25,7 +25,7 @@
 
 ![1636540342-689871-image](https://tupian.clotliu.com/822aa86438ba381789f339914b55c6cf.png)
 
-# 縮略圖策略
+## 縮略圖策略
 
 我們需要新建一個縮略圖策略以供博客後台展示所用。
 
@@ -41,7 +41,7 @@
 
 > 版本名稱自己設置就好，縮略方式建議限定寬度和高度。完了保存即可。
 
-# Halo 後台設置
+## Halo 後台設置
 
 ![1636541922-154535-m-at-htf4sza3fja-at-705l](https://tupian.clotliu.com/8d7281743f28b00730c120bd17bddf3e.png)
 
@@ -71,6 +71,6 @@
 5. 文件目錄自定義。
 6. 縮略圖處理策略即 `間隔標識符+圖片處理版本名稱`。
 
-# 最後
+## 最後
 
 去附件管理上傳圖片試試吧！

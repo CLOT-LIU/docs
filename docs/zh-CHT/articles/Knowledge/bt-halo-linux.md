@@ -1,4 +1,4 @@
-# 一、服務器環境說明
+## 一、服務器環境說明
 
 1. 寶塔 7.7.0 或更新版本
 2. Linux Server（本文用的是 CentOs 7.6 64位）
@@ -7,7 +7,7 @@
 5. PHP 7.1+（本文 PHP-7.3）
 6. phpMyAdmin 4.7
 
-# 二、安裝寶塔 Linux 面板
+## 二、安裝寶塔 Linux 面板
 
 使用 SSH 工具（[查看使用方法](https://clotliu.com/archives/finalshell%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)），執行命令開始安裝（大約2分鍾完成面板安裝）。
 
@@ -29,7 +29,7 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_
 圖源：寶塔面板
 
 
-# 三、安裝 LNMP 環境
+## 三、安裝 LNMP 環境
 
 浏覽器輸入寶塔面板的 ip 地址。登陸賬號，進入面板。
 
@@ -43,15 +43,15 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_
 
 進入寶塔面板 – 【軟件商店】 – 【已安裝】，點擊 PHP 設置。
 
-# 四、安裝 Docker
+## 四、安裝 Docker
 
-## 准備工作
+### 准備工作
 
-### 系統要求
+#### 系統要求
 
 Docker 支持 64 位版本 CentOS 7/8，並且要求內核版本不低于 3.10。 CentOS 7 滿足最低內核的要求，但由于內核版本比較低，部分功能（如 `overlay2` 存儲層驅動）無法使用，並且部分功能可能不太穩定。
 
-### 卸載舊版本
+#### 卸載舊版本
 
 舊版本的 Docker 稱爲 `docker` 或者 `docker-engine`，使用以下命令卸載舊版本：
 
@@ -70,7 +70,7 @@ $ sudo yum remove docker \
 ```
 
 
-## 使用 yum 安裝
+### 使用 yum 安裝
 
 執行以下命令安裝依賴包：
 
@@ -101,7 +101,7 @@ $ sudo sed -i 's/download.docker.com/mirrors.aliyun.com\/docker-ce/g' /etc/yum.r
 $ sudo yum-config-manager --enable docker-ce-test
 ```
 
-## 安裝 Docker
+### 安裝 Docker
 
 更新 `yum` 軟件源緩存，並安裝 `docker-ce`。
 
@@ -109,27 +109,27 @@ $ sudo yum-config-manager --enable docker-ce-test
 $ sudo yum install docker-ce docker-ce-cli containerd.io
 ```
 
-## 啓動 Docker
+### 啓動 Docker
 
 ```
 $ sudo systemctl start docker
 ```
 
-## 驗證Docker引擎是否正確安裝。
+### 驗證Docker引擎是否正確安裝。
 
 ```
 $ sudo docker run hello-world
 ```
 
-# 五、安裝 halo
+## 五、安裝 halo
 
 此步驟按照[官方 Docker 部署文檔](https://docs.halo.run/getting-started/install/docker)一步步來就好
 
-## 5.1 新建存放 halo 的網站
+### 5.1 新建存放 halo 的網站
 
 前往寶塔面板 – 【網站】 – 【添加站點】。
 
-## 5.2 配置 SSL 證書
+### 5.2 配置 SSL 證書
 
 打開站點設置，進入 SSL 選項卡頁面，挑選您想要配置的安全證書方式：
 
@@ -137,11 +137,11 @@ $ sudo docker run hello-world
 * [Let’s Encrypt 三個月免費證書](https://blog.csdn.net/msllws/article/details/82255078)
 * [已有證書文件，上傳至寶塔](https://yq.aliyun.com/articles/705391)
 
-# 六、配置反向代理
+## 六、配置反向代理
 
 > 上面其實就已經安裝好了 halo，但是想要通過域名訪問網站還需要進一步配置才能正確運行。
 
-## 6.1 修改 Nginx 配置
+### 6.1 修改 Nginx 配置
 
 1. 進入寶塔面板，打開站點設置，修改網站配置文件：(可對照下圖修改)
 
@@ -165,4 +165,4 @@ $ sudo docker run hello-world
 
 ![5S1Q3B1KTP005O27B.png](https://cdn.lixingyong.com/2021/11/15/5S1Q3B1KTP005O27B.png)
 
-# 七、開始使用你的博客吧！
+## 七、開始使用你的博客吧！

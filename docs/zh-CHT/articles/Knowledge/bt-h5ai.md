@@ -1,4 +1,4 @@
-# 介紹
+## 介紹
 
 h5ai可以把對應目錄下的文件和文件夾全部顯示在web頁面上，只需點擊即可下載對應的資料
 
@@ -8,7 +8,7 @@ h5ai需要php5.5版本以上環境，可在apache、nginx環境下運行，這�
 
 **Github：~​~​[https://github.com/lrsjng/h5ai](https://github.com/lrsjng/h5ai)**
 
-# 方法：
+## 方法：
 
 寶塔後台添加站點，用你自己的域名或IP都可以：
 

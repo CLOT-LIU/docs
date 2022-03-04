@@ -2,4 +2,4 @@
 - Translations
     - [:cn: 中文](/zh-cn/)
     - [:cn: 繁體字](/zh-CHT/)
-    - [:us: English](/en-us/)
+    <!-- - [:us: English](/en-us/) -->

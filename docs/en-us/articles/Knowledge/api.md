@@ -1,10 +1,10 @@
-## 前言
+## Preface
 
-网上有很多随机图片 AIP，这些接口随时都有可能挂掉，所以，我们可以自建一个属于自己的随机图片 API
+There are a lot of random image AIPs on the web, these interfaces may hang at any time, so we can build a random image API of our own
 
-## 教程
+## Tutorial
 
-新建一个 api.php 文件，在该文件内加入以下内容：
+Create a new api.php file and add the following content to it: 
 
 ```php
 <?php
@@ -18,5 +18,5 @@ for ($i=1;$i<=1;$i++){
 ```
 
 
-然后创建一个 picture.txt 文件，将图片外链丢进去
-最后，访问 http://你的域名/api.php 测试 API 是否正常
+Then create a picture.txt file and drop the image external link into it
+Finally, visit http:// your domain name /api.php to test if the API works

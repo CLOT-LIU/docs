@@ -1,17 +1,17 @@
-## 一、安装堡塔远程工具 以连接你的Linux服务器
-Windows版下载地址:
+## I. Install Fortress Remote Tools to connect to your Linux server
+Windows version download address:
 [http://www.hostbuf.com/downloads/finalshell_install.exe](http://www.hostbuf.com/downloads/finalshell_install.exe)
 
-macOS版下载地址:
-[http://www.hostbuf.com/downloads/finalshell_install.pkg](http://www.hostbuf.com/downloads/finalshell_install.pkg "http://www.hostbuf.com/downloads/finalshell_install.pkg")
+Download address for macOS version:
+[http://www.hostbuf.com/downloads/finalshell_install.pkg](http://www.hostbuf.com/downloads/finalshell_install.pkg "http://www. hostbuf.com/downloads/finalshell_install.pkg")
 
-Linux版安装及教程:
+Linux version installation and tutorial:
 http://www.hostbuf.com/t/1059.html
 
-## 二、使用FinalShell连接至Linux服务器
+## II. Use FinalShell to connect to Linux server
 
-1. 启动 FinalShell，进入堡塔远程工具主界面。
-2. 按照提示填写服务器信息（请填写公网可连接的IP）
+1. Launch FinalShell and enter the main interface of Fortress Remote Tools. 2.
+2. Follow the prompts to fill in the server information (please fill in the IP of the public network that can be connected)
 
 ![ip.png](https://cdn.lixingyong.com/2021/11/14/ip.png)
 
@@ -19,4 +19,7 @@ http://www.hostbuf.com/t/1059.html
 
 ![FinalShell3.png](https://cdn.lixingyong.com/2021/11/14/FinalShell3.png)
 
-进入到这里即表明你已经连接到了你的linux服务器，接下来就可以安装宝塔了。![12.png](https://cdn.lixingyong.com/2021/11/14/12.png)
+Getting here means that you are connected to your linux server, next you can install Pagoda.
+
+
+Translated with www.DeepL.com/Translator (free version)
